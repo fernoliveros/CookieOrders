@@ -51,5 +51,5 @@ When you're done you can just kill the process (Ctrl+C)
 There is only one dev dependency (Jasmine) needed to be installed used for unit tests. Install and run the test with the command below.
 
 ```
-$ npm i; npm run test
+$ npm ci; npm run test
 ```
